@@ -112,7 +112,7 @@
     
     <div class="container section contact-form">
         <h2>Contáctanos</h2>
-        <form action="mailto:tucorreo@ejemplo.com" method="post" enctype="text/plain">
+        <form action="mailto:lustfameagency@gmail.com" method="post" enctype="text/plain">
             <label for="name">Nombre:</label>
             <input type="text" id="name" name="name" required>
             
